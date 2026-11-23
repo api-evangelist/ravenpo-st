@@ -1,4 +1,4 @@
-# ravenpo-st
+# Ravenpost
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ravenpo-st is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ravenpo.st/
+Ravenpost is a social media scheduler for app builders, creators, influencers and agencies. It lets you teach a built‑in agent your app once, which then drafts posts across Instagram, TikTok, X, Telegram, LinkedIn, Threads, Bluesky, Discord, Mastodon, YouTube, Pinterest, DEV and Hashnode. Features include caption per network, preview of each, team seats and approvals. Free plan available; paid plans start at $14 per month, offering advanced scheduling, analytics and collaboration tools.
+
+**Areas:** Social Media · Scheduler · Marketing Automation · Influencer Tools
+
+## Ravenpost on APIs.io
+
+Everything profiled for Ravenpost is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ravenpo-st/](https://apis.io/providers/ravenpo-st/)** — or go straight to one of the APIs or properties below.
+
+### APIs (7)
+
+- [Ravenpost Accounts API](https://apis.io/apis/ravenpo-st/ravenpo-st-accounts-api/) — The Accounts API from Ravenpost — 2 operation(s) for accounts.
+- [Ravenpost Analytics API](https://apis.io/apis/ravenpo-st/ravenpo-st-analytics-api/) — The Analytics API from Ravenpost — 2 operation(s) for analytics.
+- [Ravenpost Email API](https://apis.io/apis/ravenpo-st/ravenpo-st-email-api/) — The Email API from Ravenpost — 3 operation(s) for email.
+- [Ravenpost Media API](https://apis.io/apis/ravenpo-st/ravenpo-st-media-api/) — The Media API from Ravenpost — 3 operation(s) for media.
+- [Ravenpost Posts API](https://apis.io/apis/ravenpo-st/ravenpo-st-posts-api/) — The Posts API from Ravenpost — 6 operation(s) for posts.
+- [Ravenpost Reference API](https://apis.io/apis/ravenpo-st/ravenpo-st-reference-api/) — The Reference API from Ravenpost — 2 operation(s) for reference.
+- [Ravenpost Workspace API](https://apis.io/apis/ravenpo-st/ravenpo-st-workspace-api/) — The Workspace API from Ravenpost — 1 operation(s) for workspace.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Ravenpost Agentic Access](https://apis.io/agentic-access/ravenpo-st/ravenpo-st-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Ravenpost API Rules](https://apis.io/rules/ravenpo-st/ravenpo-st-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ravenpost Authentication](https://apis.io/security/ravenpo-st/ravenpo-st-authentication/)
+- [Ravenpost Domain Security](https://apis.io/security/ravenpo-st/ravenpo-st-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Ravenpost Plans Pricing](https://apis.io/plans/ravenpo-st/ravenpo-st-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ravenpo.st/)
+- [API reference](https://ravenpo.st/docs/)
+- [Pricing](https://ravenpo.st/pricing/)
+- [Support](https://ravenpo.st/support/)
+- [Changelog](https://ravenpo.st/changelog/)
+- [Blog](https://ravenpo.st/blog/)
+- [Terms of service](https://ravenpo.st/terms/)
+- [Privacy policy](https://ravenpo.st/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 53.9** — developing · rubric 0.27.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 48.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 73.2 |
+
+**Agent readiness 57.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ravenpo-st/](https://apis.io/providers/ravenpo-st/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ravenpost: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ravenpo-st/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
